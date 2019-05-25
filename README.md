@@ -1,5 +1,4 @@
-# lasso_coordinate_descent
-Coordinate descent for LASSO regression
+# Coordinate descent for LASSO regression
 
 **Libraries used:**
 - numpy - 1.16.3
